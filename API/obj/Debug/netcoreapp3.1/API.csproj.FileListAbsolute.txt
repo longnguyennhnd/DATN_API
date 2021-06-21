@@ -1,0 +1,162 @@
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\appsettings.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.exe
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.deps.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\API.pdb
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.dll
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.pdb
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\BLL.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\DAL.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Model.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Model.pdb
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+F:\DOAN5\DoAn5-API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\DOAN5\DoAn5-API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Long Nguyen\Desktop\API-DoAn5\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Long Nguyen\Desktop\API-DATN\API\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Long Nguyen\Desktop\API-DATN\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
