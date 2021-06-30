@@ -68,6 +68,18 @@ namespace API.Controllers
         {
             return _hocsinhBusiness.GetDataAll();
         }
+        [Route("get-by-monthnow")]
+        [HttpGet]
+        public IEnumerable<HocSinhModel> GetByMonthNow()
+        {
+            return _hocsinhBusiness.GetByMonthNow();
+        }
+        [Route("get-by-month/{month}")]
+        [HttpGet]
+        public IEnumerable<HocSinhModel> GetByMonth(int month)
+        {
+            return _hocsinhBusiness.GetByMonth(month);
+        }
         [Route("search")]
         [HttpPost]
         public ResponseModel Search([FromBody] Dictionary<string, object> formData)

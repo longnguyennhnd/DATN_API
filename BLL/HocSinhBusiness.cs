@@ -35,6 +35,15 @@ namespace BLL
             return _res.GetDataAll();
         }
 
+        public List<HocSinhModel> GetByMonth(int month)
+        {
+            return _res.GetByMonth(month);
+        }
+        public List<HocSinhModel> GetByMonthNow()
+        {
+            return _res.GetByMonthNow();
+        }
+
         public List<HocSinhModel> GetDataLop(string malop)
         {
             return _res.GetDataLop(malop);

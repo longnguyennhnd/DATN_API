@@ -13,6 +13,8 @@ namespace BLL.Interfaces
         List<HocSinhModel> GetDataDiemHK(string Search);
         HocSinhModel GetDatabyID(int id);
         List<HocSinhModel> GetDataAll();
+        List<HocSinhModel> GetByMonthNow();
+        List<HocSinhModel> GetByMonth(int month);
         List<HocSinhModel> GetDataLop(string malop);
         List<HocSinhModel> Search(int pageIndex, int pageSize, out long total, string hoten);
     }

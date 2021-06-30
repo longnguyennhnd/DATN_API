@@ -95,15 +95,34 @@ namespace DAL
                 throw ex;
             }
         }
-        public List<DiemDanhModel> GetDataAll()
+        public List<DiemDanhDate> GetDataAll()
         {
             string msgError = "";
             try
             {
-                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "diem_danh_all");
+                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "get_diem_danh_all");
                 if (!string.IsNullOrEmpty(msgError))
                     throw new Exception(msgError);
-                return dt.ConvertTo<DiemDanhModel>().ToList();
+                return dt.ConvertTo<DiemDanhDate>().ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<DiemDanhDate> GetDiemDanhByDate(string date, string malop, int TrangThai)
+        {
+            string msgError = "";
+            try
+            {
+                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "getdiemdanhbydate", 
+                    "@date", date,
+                    "@malop", malop,
+                    "@TrangThai", TrangThai);
+                if (!string.IsNullOrEmpty(msgError))
+                    throw new Exception(msgError);
+                return dt.ConvertTo<DiemDanhDate>().ToList();
             }
             catch (Exception ex)
             {

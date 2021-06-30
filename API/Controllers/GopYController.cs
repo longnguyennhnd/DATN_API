@@ -1,5 +1,7 @@
 ﻿using BLL;
+using MailKit.Net.Smtp;
 using Microsoft.AspNetCore.Mvc;
+using MimeKit;
 using Model;
 using System;
 using System.Collections.Generic;
@@ -68,6 +70,28 @@ namespace API.Controllers
         public ThongBaoModel UpdateUser([FromBody] ThongBaoModel model)
         {
             _gopyBusiness.Update(model);
+            return model;
+        }
+
+        [Route("send-mail")]
+        [HttpPost]
+        public MailModel SendMailToUser(MailModel model)
+        {
+            var message = new MimeMessage();
+            message.From.Add(new MailboxAddress("Trường Mầm Non Happy Montessori", "longnguyen0102999@gmail.com"));
+            message.To.Add(new MailboxAddress("nerem", "longnguyennhnd@gmail.com"));
+            message.Subject = model.noti_title;
+            message.Body = new TextPart("plain")
+            {
+                Text = model.noti_content
+            };
+            using (var client = new SmtpClient())
+            {
+                client.Connect("smtp.gmail.com", 587, false);
+                client.Authenticate("longnguyen0102999@gmail.com", "Loveanh44");
+                client.Send(message);
+                client.Disconnect(true);
+            }
             return model;
         }
     }

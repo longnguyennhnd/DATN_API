@@ -52,10 +52,18 @@ namespace API.Controllers
         }
         [Route("get-all")]
         [HttpGet]
-        public IEnumerable<DiemDanhModel> GetDatabAll()
+        public IEnumerable<DiemDanhDate> GetDataAll()
         {
             return _diemdanhBusiness.GetDataAll();
         }
+
+        [Route("get-diem-danh-by-date/{date}/{malop}/{TrangThai}")]
+        [HttpGet]
+        public List<DiemDanhDate> GetDiemDanhByDate(string date, string malop, int TrangThai)
+        {
+            return _diemdanhBusiness.GetDiemDanhByDate(date, malop, TrangThai);
+        }
+
         [Route("search")]
         [HttpPost]
         public ResponseModel Search([FromBody] Dictionary<string, object> formData)

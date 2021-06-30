@@ -29,9 +29,15 @@ namespace BLL
         {
             return _res.GetDatabyID(id);
         }
-        public List<DiemDanhModel> GetDataAll()
+
+        
+        public List<DiemDanhDate> GetDataAll()
         {
             return _res.GetDataAll();
+        }
+        public List<DiemDanhDate> GetDiemDanhByDate(string date, string malop, int TrangThai)
+        {
+            return _res.GetDiemDanhByDate(date, malop, TrangThai);
         }
         public List<DiemDanhModel> Search(int pageIndex, int pageSize, out long total, string monhoc, string buoi, string ngay)
         {

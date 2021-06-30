@@ -28,6 +28,7 @@ namespace DAL
                 "@GioiTinh", model.GioiTinh,
                 "@NgaySinh", model.NgaySinh,
                 "@NoiSinh", model.noisinh,
+                "@Email", "longnguyennhnd@gmail.com",
                 "@DanToc", model.dantoc,
                 "@HoTenCha", model.hotencha,
                 "@HoTenMe", model.hotenme,
@@ -89,6 +90,23 @@ namespace DAL
                 throw ex;
             }
         }
+
+        public List<HocSinhModel> GetByMonth(int month)
+        {
+            string msgError = "";
+            try
+            {
+                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "get_by_month",
+                     "@month", month);
+                if (!string.IsNullOrEmpty(msgError))
+                    throw new Exception(msgError);
+                return dt.ConvertTo<HocSinhModel>().ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         public List<HocSinhModel> GetDataDiemHK(string Search)
         {
             string msgError = "";
@@ -143,6 +161,23 @@ namespace DAL
                 throw ex;
             }
         }
+
+        public List<HocSinhModel> GetByMonthNow()
+        {
+            string msgError = "";
+            try
+            {
+                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "get_by_monthnow");
+                if (!string.IsNullOrEmpty(msgError))
+                    throw new Exception(msgError);
+                return dt.ConvertTo<HocSinhModel>().ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public List<HocSinhModel> GetDataAll()
         {
             string msgError = "";
